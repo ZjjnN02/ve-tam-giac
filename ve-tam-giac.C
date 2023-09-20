@@ -12,6 +12,7 @@ int main(){
 
 
     //Cau a: Ve tam can
+    /*
     if  ( h > 0) {
         int i, j;
         for(i = 1; i <= h; i++) {
@@ -27,7 +28,7 @@ int main(){
     } else {
         printf("Nhap h > 0!");
     }
-    
+    */
     
     
     

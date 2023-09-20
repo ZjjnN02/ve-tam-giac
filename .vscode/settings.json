@@ -2,7 +2,10 @@
     "files.associations": {
         "On-tap-loop.C": "cpp",
         "tempCodeRunnerFile.C": "cpp",
-        "ve-tam-giac.C": "cpp"
+        "ve-tam-giac.C": "cpp",
+        "Fibonanci.C": "cpp",
+        "fibonacci.C": "cpp",
+        "Loop-Switch case-chuong-trinh-quan-ly-sinh-vien.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
